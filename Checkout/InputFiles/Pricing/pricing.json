@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Name": "Apple",
+    "RegularPricing": { "Price": "2" },
+    "SalePricing": {
+      "Price": "1",
+      "StartDate": "2020-10-01T00:00:00",
+      "EndDate": "2020-10-31T00:00:00"
+    },
+    "GroupPricing": {
+      "GroupSize": "3",
+      "Price": "2"
+    },
+    "AdditionalItemPricing": { "Price": "0" }
+  },
+  {
+    "Name": "Banana",
+    "RegularPricing": { "Price": "3" },
+    "SalePricing": {
+      "Price": "2",
+      "StartDate": "2020-10-01T00:00:00",
+      "EndDate": "2020-10-31T00:00:00"
+    },
+    "GroupPricing": {
+      "GroupSize": "3",
+      "Price": "2"
+    },
+    "AdditionalItemPricing": { "Price": "0" }
+  },
+  {
+    "Name": "Coconut",
+    "RegularPricing": { "Price": "2.5" },
+    "SalePricing": {
+      "Price": "1.5",
+      "StartDate": "2020-10-01T00:00:00",
+      "EndDate": "2020-10-31T00:00:00"
+    },
+    "GroupPricing": {
+      "GroupSize": "3",
+      "Price": "2"
+    },
+    "AdditionalItemPricing": { "Price": "0" }
+  }
+]
